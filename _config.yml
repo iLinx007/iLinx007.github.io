@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Lincoln Ahiadu"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Gaming:video_game:"
+  bio    : "Gaming...:video_game:"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
