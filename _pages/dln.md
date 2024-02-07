@@ -4,6 +4,8 @@ permalink: /dln/
 author_profile: false
 ---
 
+## Course Reflection
+
 As a 22-year-old student majoring in Computer Science at New York University Abu Dhabi, my journey through the realm of digital literacy has been both exhilarating and challenging. In this reflection, I'll delve into my experiences, strategies, and aspirations within the field of computer science and how digital literacy shapes my academic and daily life.
 
 In my academic pursuits, I find myself constantly engaged in various aspects of digital literacy, focusing primarily on problem-solving, data analysis, and software development rather than content creation. While some of my peers may excel in content creation, my strengths lie in coding projects, algorithmic thinking, and collaborating with peers on complex technical challenges. Through platforms like GitHub, I engage in collaborative coding efforts, contributing to shared projects and learning from others in the community. 
