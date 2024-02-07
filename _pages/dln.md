@@ -1,10 +1,8 @@
 ---
-title: "Digital Literacy Narrative"
+title: "DLN S24"
 permalink: /dln/
 author_profile: false
 ---
-
-## Course Reflection
 
 As a 22-year-old student majoring in Computer Science at New York University Abu Dhabi, my journey through the realm of digital literacy has been both exhilarating and challenging. In this reflection, I'll delve into my experiences, strategies, and aspirations within the field of computer science and how digital literacy shapes my academic and daily life.
 
