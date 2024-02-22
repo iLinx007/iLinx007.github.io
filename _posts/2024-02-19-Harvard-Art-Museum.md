@@ -33,3 +33,9 @@ Some items of British culture in the Harvard Art Museum had very low views, with
 
 
 ## **Comparing Cultures - British, Indian & Chinese**
+
+
+> In my analysis of the Harvard Art Museum, I will be comparing the **British**, **Indian**, and **Chinese** cultures. Analyzing the data on the accession years of artworks from various cultures at the Harvard Art Museum allows for an exploration into what influenced their acquisition and how this relates to the historical context of each culture. This analysis will also aid in understanding how the intertwined history of these cultures has been translated into artworks.
+
+
+**The Number Of Objects of Each Culture Present**
