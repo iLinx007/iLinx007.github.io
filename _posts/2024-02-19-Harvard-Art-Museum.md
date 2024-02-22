@@ -53,3 +53,10 @@ Furthermore, examining data from the British, Indian, and Chinese cultures allow
 The Harvard Art Museum gained a significant collection of art in 1948 due to a generous donation by [*Grenville L. Winthrop*](https://en.wikipedia.org/wiki/Grenville_Lindall_Winthrop#:~:text=Death%20and%20legacy,-Winthrop%20died%20on&text=Winthrop%20bequeathed%20his%20art%20collection,Hospital%20in%20New%20York%20City.). Winthrop, who was an American collector and philanthropist, bequeathed his entire collection (around 4000 in total) of British and Chinese art to the museum upon his death in 1943. This collection included a wide range of Chinese artifacts, including ceramics, jade, bronzes, paintings, and textiles, among others.
 Winthrop had been collecting British and Chinese art since the late 19th and early 20th centuries, amassing a remarkable assortment of pieces. His decision to donate his collection to the Harvard Art Museum greatly enriched the museum's holdings and solidified its reputation as a prominent institution for the study and exhibition of art.
 The Winthrop Collection remains one of the most significant collections of Chinese art in the United States, providing scholars, students, and the public with valuable insights into Chinese history, culture, and artistic traditions.
+
+
+## **Word Cloud**
+
+<img src="/assets/images/british_wc.png" style="zoom:50%;" />
+<img src="/assets/images/indian_wc.png" style="zoom:50%;" />
+<img src="/assets/images/chinese_wc.png" style="zoom:50%;" />
