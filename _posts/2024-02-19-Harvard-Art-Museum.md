@@ -46,4 +46,4 @@ The histogram below illustrates the distribution of items from three distinct cu
 
 **Accession Years of Objects**
 
-<img src="/assets/images/accession.png" style="zoom:50%;" />
+<img src="/assets/images/accession_year.png" style="zoom:50%;" />
