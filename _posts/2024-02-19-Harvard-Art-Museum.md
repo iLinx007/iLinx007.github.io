@@ -57,6 +57,8 @@ The Winthrop Collection remains one of the most significant collections of Chine
 
 ## **Word Cloud & Interpretations**
 
+>The word clouds provide valuable insights into the prevalent terms used in the art of these three cultures. Through analysis of these words, one can endeavor to establish connections to the cultural context, discerning why these particular terms hold significance within each culture.
+
 <img src="/assets/images/british_wc.png" style="zoom:50%;" />
 <img src="/assets/images/indian_wc.png" style="zoom:50%;" />
 <img src="/assets/images/chinese_wc.png" style="zoom:50%;" />
