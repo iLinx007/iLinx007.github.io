@@ -55,7 +55,7 @@ Winthrop had been collecting British and Chinese art since the late 19th and ear
 The Winthrop Collection remains one of the most significant collections of Chinese art in the United States, providing scholars, students, and the public with valuable insights into Chinese history, culture, and artistic traditions.
 
 
-## **Word Cloud**
+## **Word Cloud & Interpretations**
 
 <img src="/assets/images/british_wc.png" style="zoom:50%;" />
 <img src="/assets/images/indian_wc.png" style="zoom:50%;" />
