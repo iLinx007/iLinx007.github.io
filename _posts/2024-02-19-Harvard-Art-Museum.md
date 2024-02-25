@@ -16,7 +16,7 @@ One captivating piece I found was [*The Virgin with the Sleeping Christ Child*](
 
 Naturally, I was drawn to search for representations of my nationality, and thus, I found [*Kaaba Style Shama*](https://harvardartmuseums.org/collections/object/58463?position=1&context=person&id=24287) among the results when I searched for Ghanaian artworks on the Harvard Art Museum website. Captured by Philip Kwame Apagya, a Ghanaian photographer born in Sekondi, Ghana, in 1958, this photograph from 1996 offers a captivating glimpse into Ghanaian culture and aesthetics. The title "Kaaba Style Shama" hints at a connection to Islamic traditions, particularly the Kaaba in Mecca, which holds significant religious importance in Islam. Apagya's portrayal of this cultural fusion reflects the diverse influences and intersections found within Ghanaian society, offering not only a visual representation but also an introspective journey into my own heritage and identity.
 
-<img src="/assets/images/kaaba.png" style="zoom:50%;" />
+<img src="/assets/images/kaaba.png" style="zoom:80%;" />
 
 Another fascinating find in the Harvard Art Museum's collection is [*Unc.lue & Nana*](https://harvardartmuseums.org/collections/object/376537?position=1&context=person&id=69294), a photograph by Claudio Eshun, a Ghanaian artist born in Accra in 1996. It's particularly intriguing that this piece, part of the [*Elegant Alien*](https://www.claudioeshun.com/personalwork) series from 2019, is present among the museum's offerings despite its classification under American culture. Eshun's Ghanaian heritage is evident in the composition of “Elegant Alien”, providing a unique perspective that transcends boundaries.
 
