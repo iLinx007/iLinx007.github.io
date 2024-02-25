@@ -104,3 +104,7 @@ The word cloud for Chinese culture at the Harvard Art Museum highlights "mountai
 
 <img src="/assets/images/bamboo.png" style="zoom:80%;" />
 <img src="/assets/images/calligraphy.png" style="zoom:80%;" />
+
+
+
+### **Ready for grading**
