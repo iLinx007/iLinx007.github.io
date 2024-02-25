@@ -59,6 +59,12 @@ The Winthrop Collection remains one of the most significant collections of Chine
 
 >The word clouds provide valuable insights into the prevalent terms used in the art of these three cultures. Through analysis of these words, one can try to establish connections to the cultural context, discerning why these particular terms hold significance within each culture.
 
+The word cloud for British culture at the Harvard Art Museum features terms like "Duke," "castle," and "landscape," reflecting a focus on aristocratic figures, architectural landmarks, and scenic vistas. Additionally, "portrait" and "church" suggest a prominence of portraiture and religious themes. The inclusion of "engraved" and "scroll" indicates attention to detail and craftsmanship. Overall, the cloud provides insights into the diverse subjects and meticulous artistry present in the British collection.
 <img src="/assets/images/british_wc.png" style="zoom:50%;" />
+
+The word cloud representing Indian culture at the Harvard Art Museum highlights key elements such as "Krishna," "Rajput," and "Firdawsi." These terms suggest a focus on Hindu mythology, Rajput dynasty influences, and Persian literary themes. Additionally, "gold" and "large" indicate opulence and grandeur, possibly reflecting the luxurious materials and scale often seen in Indian artworks. The inclusion of "figure" and "painting" hints at the prevalence of figurative art and intricate paintings, showcasing the rich artistic traditions of India. "Kota" suggests a regional specificity, possibly referencing Kota painting styles or cultural heritage. 
 <img src="/assets/images/indian_wc.png" style="zoom:50%;" />
+
+
+The word cloud for Chinese culture at the Harvard Art Museum highlights "mountain," "bamboo," and "calligraphy," suggesting natural landscapes and traditional brush painting. "Vessel" and "decoration" indicate a focus on ornate ceramics, while "fragment" and "manual" hint at preserved artifacts and instructional guides. Terms like "shizhuzhai" and "shuhua" likely denote specific artistic styles. Taken together, the cloud provides insight into the diverse artistic traditions of Chinese culture represented in the museum's collection.
 <img src="/assets/images/chinese_wc.png" style="zoom:50%;" />
