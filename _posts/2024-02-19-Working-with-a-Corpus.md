@@ -9,7 +9,7 @@ tags:
 
 ## **THE AVENGERS CORPUS**
 
-### Understanding Text Analysis and Choosing the Corpus**
+### Understanding Text Analysis and Choosing the Corpus
 
 Text analysis is the process of examining and understanding written or spoken language to gain insights and extract meaning from it. It involves using various techniques and tools to analyze the structure, content, and context of a text.
 In line with this approach, I have selected all four texts from the Marvel Cinematic Universe (MCU): "The Avengers" (2012), "Avengers: Age of Ultron" (2015), "Avengers: Infinity War" (2018), and "Avengers: Endgame" (2019). Obtaining these texts involved directly downloading the SRT subtitle files for each movie from [opensubtitles.org](https://www.opensubtitles.com/en)opensubtitles.org, a trusted source for subtitle files. After acquiring the SRT files, I utilized the transcription tool provided by [happyscribe.org](https://www.happyscribe.com/) to convert them into TXT format, ensuring that the TXT format easily integrates with the digital textual analysis tools to be used for this assignment.
