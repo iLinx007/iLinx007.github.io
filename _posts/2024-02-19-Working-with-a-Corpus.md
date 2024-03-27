@@ -25,3 +25,4 @@ The selection of these four Avengers movies for analysis is underscored by their
 ### Text Analysis and Visualization
 
 <img src="/assets/images/2012_wc.png" style="zoom:180%;" />
+<img src="/assets/images/2012-wc.png" style="zoom:180%;" />
