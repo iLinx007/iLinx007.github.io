@@ -22,4 +22,4 @@ The selection of these four Avengers movies for analysis is underscored by their
 "Avengers: Infinity War" and "Avengers: Endgame" represent the culmination of years of storytelling and character development, as the Avengers face their greatest challenge yet in the form of Thanos, the Mad Titan. These films showcase the ultimate test of the Avengers' resolve and resilience, as they confront loss, grapple with moral dilemmas, and ultimately unite in a desperate bid to save the universe from destruction.
 
 
-### Text Analysis Using Voyant Tools
+### Text Analysis and Visualization Using Voyant Tools
