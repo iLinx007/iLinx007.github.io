@@ -24,6 +24,11 @@ The selection of these four Avengers movies for analysis is underscored by their
 
 ### Text Analysis and Visualization
 
+
+In the analysis, Voyant Tools played a pivotal role in delving into the patterns, elements, and narrative structures prevalent within the selected corpus of Avengers movies. Commencing with an examination of word frequency across the films, recurring themes, character names, and significant terms permeating the narrative were identified. Through this analysis, prominent keywords such as “Avengers”, “Loki”, “Thanos”, “Agent Barton”, “Tony Stark”, “Ultron”, and “Captain America” were discovered, highlighting the central focus on superheroes conflicts, alliances, and villains. 
+Moreover, to ensure precision in my analysis, I utilized Voyant Tools' stopword feature to eliminate repetitive terms often found in conversational dialogue, such as "yeah," "I'm," "we're," "just," "like," etc. This refinement enabled me to focus on the most meaningful and significant words and phrases within the corpus.
+Additionally, in addition to employing Voyant Tools' stopword feature for precision, I engaged its word cloud functionality to visually encapsulate the most prevalent terms within the Avengers movie corpus. The utilization of this feature enabled me to distill the essence of the narrative by visually representing the frequency of words and themes. As a result, the word clouds served as dynamic snapshots, capturing the overarching motifs of heroism, conflict, and sacrifice that permeate the MCU saga. The prominence of terms such as "battle," "power," "sacrifice," and "heroism" underscored the recurring elements driving the narrative tension and character arcs throughout the Avengers movies. By leveraging these visual representations, I deepened my insights into the thematic undercurrents and narrative dynamics that define the cinematic universe, enriching my analysis with a nuanced understanding of its storytelling intricacies.
+
 ##### "The Avengers" (2012) Word Cloud
 <img src="/assets/images/assignment_2/2012_wc.png" style="zoom:180%;" />
 
