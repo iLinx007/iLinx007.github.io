@@ -31,4 +31,7 @@ The selection of these four Avengers movies for analysis is underscored by their
 <img src="/assets/images/assignment_2/2015_wc.png" style="zoom:180%;" />
 
 ##### "Avengers: Infinity War" (2018) Word Cloud
-<img src="/assets/images/assignment_2/2015_wc.png" style="zoom:180%;" />
+<img src="/assets/images/assignment_2/2018_wc.png" style="zoom:180%;" />
+
+##### "Avengers: Endgame" (2019) Word Cloud
+<img src="/assets/images/assignment_2/2019_wc.png" style="zoom:180%;" />
