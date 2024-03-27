@@ -24,5 +24,11 @@ The selection of these four Avengers movies for analysis is underscored by their
 
 ### Text Analysis and Visualization
 
-<img src="/assets/images/2012_wc.png" style="zoom:180%;" />
-<img src="/assets/images/2012-wc.png" style="zoom:180%;" />
+#### "The Avengers" (2012) Word Cloud
+<img src="/assets/images/assignment_2/2012_wc.png" style="zoom:180%;" />
+
+#### "Avengers: Age of Ultron" (2015) Word Cloud
+<img src="/assets/images/assignment_2/2015_wc.png" style="zoom:180%;" />
+
+#### "Avengers: Infinity War" (2018) Word Cloud
+<img src="/assets/images/assignment_2/2015_wc.png" style="zoom:180%;" />
