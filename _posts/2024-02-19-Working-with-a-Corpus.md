@@ -57,10 +57,16 @@ Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis 
 <img src="/assets/images/assignment_2/2019_trends.png" style="zoom:180%;" />
 
 
-<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=DreamScape&stopList=keywords-24d7b86feb6f6b84f3b2f3545e59c1bb&corpus=48da3fd1e6d02f1dbd7387b4817115dd'></iframe>
+<!-- <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=DreamScape&stopList=keywords-24d7b86feb6f6b84f3b2f3545e59c1bb&corpus=48da3fd1e6d02f1dbd7387b4817115dd'></iframe>
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/tool/DreamScape/?corpus=a211e1edd1d1eeb00b22dd83bb8d3a53'></iframe>
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/tool/DreamScape/?view=DreamScape&stopList=keywords-98438c01fd08b033f524a479f66c15ce&corpus=442c03d1e54a28394a9a2ad5ed84f75c'></iframe>
 
-<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-0aa8dcbcdbb71a9c130f1803114176b2&corpus=2d420f23331f896ca831e716ff5a3cb2'></iframe>
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-0aa8dcbcdbb71a9c130f1803114176b2&corpus=2d420f23331f896ca831e716ff5a3cb2'></iframe> -->
+
+### Conclusion
+
+Computer-assisted analysis, particularly utilizing tools like Voyant Tools, offers insights that wouldn't be readily apparent through a linear read of the text or even through watching the movies themselves. Even devoting the entire allotted time frame to watching all four Avengers’ movies, spanning over 8 hours, would not yield the same depth of insights that can be gained through computational analysis. These tools allow for the visualization and exploration of textual data in ways that transcend traditional reading or viewing methods. For instance, Voyant Tools enabled me to analyze word frequency, identify thematic motifs, and track temporal trends across the Avengers movies. 
+Moreover, these tools provide a dynamic platform for comparative analysis and exploration. For example, by comparing word frequencies across different movies or tracking the usage of specific terms over time, I could discern patterns and shifts in the narrative landscape. Additionally, Voyant Tools' concordance feature allowed me to examine the context in which key terms were used, providing deeper insights into character dynamics, plot developments, and thematic nuances.
+By harnessing the power of computational tools like Voyant Tools, I was able to uncover hidden patterns, trends, and relationships within the Avengers movies' narrative. These tools not only expedited the process of data exploration but also facilitated a more comprehensive and nuanced understanding of the text.
