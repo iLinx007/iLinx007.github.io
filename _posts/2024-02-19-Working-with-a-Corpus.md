@@ -42,6 +42,7 @@ Additionally, in addition to employing Voyant Tools' stopword feature for precis
 <img src="/assets/images/assignment_2/2019_wc.png" style="zoom:180%;" />
 
 
+Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis to discern temporal patterns and trends in the language and themes across the Avengers movies. By examining word frequencies and trends over time, I unearthed intriguing insights into the evolution of key motifs and narrative arcs throughout the saga. A notable trend identified was the gradual escalation of references to Thanos, the central antagonist whose quest for the Infinity Stones drove much of the overarching narrative. As the saga unfolded, the prevalence of terms associated with Thanos steadily increased, reflecting his growing prominence and impact on the storyline. From his initial mentions as a looming threat to his eventual showdown with the Avengers in Avengers: Infinity War and Avengers: Endgame, Thanos' presence loomed larger with each installment. Through interactive visualizations illustrating temporal trends and patterns, users can trace the rise of Thanos and the corresponding shifts in the landscape across the Avengers movies. This utilization of the Trends tool adds depth and dimension to the analysis.
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=DreamScape&stopList=keywords-24d7b86feb6f6b84f3b2f3545e59c1bb&corpus=48da3fd1e6d02f1dbd7387b4817115dd'></iframe>
 
