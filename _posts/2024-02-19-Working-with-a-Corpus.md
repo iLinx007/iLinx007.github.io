@@ -43,4 +43,4 @@ Additionally, in addition to employing Voyant Tools' stopword feature for precis
 
 
 
-<iframe style='width: 100%; height: 100px;' src='https://voyant-tools.org/?view=DreamScape&stopList=keywords-24d7b86feb6f6b84f3b2f3545e59c1bb&corpus=48da3fd1e6d02f1dbd7387b4817115dd'></iframe>
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=DreamScape&stopList=keywords-24d7b86feb6f6b84f3b2f3545e59c1bb&corpus=48da3fd1e6d02f1dbd7387b4817115dd'></iframe>
