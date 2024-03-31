@@ -40,3 +40,7 @@ Additionally, in addition to employing Voyant Tools' stopword feature for precis
 
 ##### "Avengers: Endgame" (2019) Word Cloud
 <img src="/assets/images/assignment_2/2019_wc.png" style="zoom:180%;" />
+
+
+
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=DreamScape&stopList=keywords-24d7b86feb6f6b84f3b2f3545e59c1bb&corpus=48da3fd1e6d02f1dbd7387b4817115dd'></iframe>
