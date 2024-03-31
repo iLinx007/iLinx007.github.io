@@ -59,8 +59,8 @@ Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis 
 
 <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=DreamScape&stopList=keywords-24d7b86feb6f6b84f3b2f3545e59c1bb&corpus=48da3fd1e6d02f1dbd7387b4817115dd'></iframe>
 
-<iframe style='width: 410px; height: 576px;' src='https://voyant-tools.org/tool/DreamScape/?corpus=a211e1edd1d1eeb00b22dd83bb8d3a53'></iframe>
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/tool/DreamScape/?corpus=a211e1edd1d1eeb00b22dd83bb8d3a53'></iframe>
 
-<iframe style='width: 1240px; height: 1028px;' src='https://voyant-tools.org/tool/DreamScape/?view=DreamScape&stopList=keywords-98438c01fd08b033f524a479f66c15ce&corpus=442c03d1e54a28394a9a2ad5ed84f75c'></iframe>
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/tool/DreamScape/?view=DreamScape&stopList=keywords-98438c01fd08b033f524a479f66c15ce&corpus=442c03d1e54a28394a9a2ad5ed84f75c'></iframe>
 
-<iframe style='width: 410px; height: 576px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-0aa8dcbcdbb71a9c130f1803114176b2&corpus=2d420f23331f896ca831e716ff5a3cb2'></iframe>
+<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/tool/DreamScape/?stopList=keywords-0aa8dcbcdbb71a9c130f1803114176b2&corpus=2d420f23331f896ca831e716ff5a3cb2'></iframe>
