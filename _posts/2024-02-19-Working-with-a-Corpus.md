@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_label: "The Avengers Corpus"
 toc_sticky: true
-toc_icon: "calendar" #"book"
+toc_icon: "gamepad" #"book"
   
 ---
 
