@@ -14,6 +14,8 @@ toc_icon: "gamepad" #"book"
 
 
 ## **THE AVENGERS CORPUS**
+###### "THE AVENGERS"
+<img src="/assets/images/assignment_2/avengers.jpg" style="zoom:300%;" />
 
 ### Understanding Text Analysis and Choosing the Corpus
 
