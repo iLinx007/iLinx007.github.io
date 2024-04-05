@@ -75,7 +75,7 @@ Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis 
 <img src="/assets/images/assignment_2/2018_streamgraph.png" style="zoom:180%;" />
 
 ###### "Avengers: Endgame" (2019) Streamgraph
-<img src="/assets/images/assignment_2/2019_trends.png" style="zoom:180%;" />
+<img src="/assets/images/assignment_2/2019_streamgraph.png" style="zoom:180%;" />
 
 ### Conclusion
 
