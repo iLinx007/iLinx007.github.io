@@ -35,31 +35,31 @@ In the analysis, Voyant Tools played a pivotal role in delving into the patterns
 Moreover, to ensure precision in my analysis, I utilized Voyant Tools' stopword feature to eliminate repetitive terms often found in conversational dialogue, such as "yeah," "I'm," "we're," "just," "like," etc. This refinement enabled me to focus on the most meaningful and significant words and phrases within the corpus.
 Additionally, in addition to employing Voyant Tools' stopword feature for precision, I engaged its word cloud functionality to visually encapsulate the most prevalent terms within the Avengers movie corpus. The utilization of this feature enabled me to distill the essence of the narrative by visually representing the frequency of words and themes. As a result, the word clouds served as dynamic snapshots, capturing the overarching motifs of heroism, conflict, and sacrifice that permeate the MCU saga. The prominence of terms such as "battle," "power," "sacrifice," and "heroism" underscored the recurring elements driving the narrative tension and character arcs throughout the Avengers movies. By leveraging these visual representations, I deepened my insights into the thematic undercurrents and narrative dynamics that define the cinematic universe, enriching my analysis with a nuanced understanding of its storytelling intricacies.
 
-##### "The Avengers" (2012) Word Cloud
+###### "The Avengers" (2012) Word Cloud
 <img src="/assets/images/assignment_2/2012_wc.png" style="zoom:180%;" />
 
-##### "Avengers: Age of Ultron" (2015) Word Cloud
+###### "Avengers: Age of Ultron" (2015) Word Cloud
 <img src="/assets/images/assignment_2/2015_wc.png" style="zoom:180%;" />
 
-##### "Avengers: Infinity War" (2018) Word Cloud
+###### "Avengers: Infinity War" (2018) Word Cloud
 <img src="/assets/images/assignment_2/2018_wc.png" style="zoom:180%;" />
 
-##### "Avengers: Endgame" (2019) Word Cloud
+###### "Avengers: Endgame" (2019) Word Cloud
 <img src="/assets/images/assignment_2/2019_wc.png" style="zoom:180%;" />
 
 
 Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis to discern temporal patterns and trends in the language and themes across the Avengers movies. By examining word frequencies and trends over time, I discovered intriguing insights into the evolution of key motifs and narrative arcs throughout the saga. A notable trend identified was the gradual escalation of references to Thanos, the central antagonist whose quest for the Infinity Stones drove much of the overarching narrative. As the saga unfolded, the prevalence of terms associated with Thanos steadily increased, reflecting his growing prominence and impact on the storyline. From his initial mentions as a looming threat to his eventual showdown with the Avengers in Avengers: Infinity War and Avengers: Endgame, Thanos' presence loomed larger with each installment. Through interactive visualizations illustrating temporal trends and patterns, users can trace the rise of Thanos and the corresponding shifts in the landscape across the Avengers movies. This utilization of the Trends tool adds depth and dimension to the analysis.
 
-##### "The Avengers" (2012) Trends
+###### "The Avengers" (2012) Trends
 <img src="/assets/images/assignment_2/2012_trends.png" style="zoom:180%;" />
 
-##### "Avengers: Age of Ultron" (2015) Trends
+###### "Avengers: Age of Ultron" (2015) Trends
 <img src="/assets/images/assignment_2/2015_trends.png" style="zoom:180%;" />
 
-##### "Avengers: Infinity War" (2018) Trends
+###### "Avengers: Infinity War" (2018) Trends
 <img src="/assets/images/assignment_2/2018_trends.png" style="zoom:180%;" />
 
-##### "Avengers: Endgame" (2019) Trends
+###### "Avengers: Endgame" (2019) Trends
 <img src="/assets/images/assignment_2/2019_trends.png" style="zoom:180%;" />
 
 
