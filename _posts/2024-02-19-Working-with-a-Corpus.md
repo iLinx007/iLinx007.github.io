@@ -81,8 +81,12 @@ Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis 
 ###### "Avengers: Endgame" (2019) Streamgraph
 <img src="/assets/images/assignment_2/2019_streamgraph.png" style="zoom:180%;" />
 
-### Conclusion
+### ---
 
 Computer-assisted analysis, particularly utilizing tools like Voyant Tools, offers insights that wouldn't be readily apparent through a linear read of the text or even through watching the movies themselves. Even devoting the entire allotted time frame to watching all four Avengers’ movies, spanning over 8 hours, would not yield the same depth of insights that can be gained through computational analysis. These tools allow for the visualization and exploration of textual data in ways that transcend traditional reading or viewing methods. For instance, Voyant Tools enabled me to analyze word frequency, identify thematic motifs, and track temporal trends across the Avengers movies. 
 Moreover, these tools provide a dynamic platform for comparative analysis and exploration. For example, by comparing word frequencies across different movies or tracking the usage of specific terms over time, I could discern patterns and shifts in the narrative landscape. Additionally, Voyant Tools' concordance feature allowed me to examine the context in which key terms were used, providing deeper insights into character dynamics, plot developments, and thematic nuances.
 By harnessing the power of computational tools like Voyant Tools, I was able to uncover hidden patterns, trends, and relationships within the Avengers movies' narrative. These tools not only expedited the process of data exploration but also facilitated a more comprehensive and nuanced understanding of the text.
+
+### Conclusion
+
+As we conclude our journey through the Avengers universe, we emerge with a newfound appreciation for the complexity and depth of this iconic cinematic saga. Through the lens of computer-assisted analysis, we've uncovered hidden gems and untold stories, revealing the hidden themes, characters, and narratives that make the Avengers movies a true marvel of storytelling. From the rise of heroes like Iron Man, Thor, and Captain America to the epic battles against formidable foes like Thanos, Loki, and Ultron, every moment has been a testament to the power of imagination and the enduring spirit of heroism. As we bid farewell to this extraordinary adventure, we carry with us the knowledge that the Avengers will forever remain a beacon of hope, inspiration, and entertainment for generations to come. Until next time, true believers, keep your eyes on the horizon, for the Avengers will always assemble when the world needs them most. Excelsior!
