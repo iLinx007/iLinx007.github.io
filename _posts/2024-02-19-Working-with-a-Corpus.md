@@ -17,6 +17,8 @@ toc_icon: "gamepad" #"book"
 ###### "THE AVENGERS"
 <img src="/assets/images/assignment_2/avengers.jpg" style="zoom:300%;" />
 
+Welcome to my Avengers Analysis Headquarters, where I assemble insights from the depths of the Marvel Cinematic Universe! Join me as I harness the power of computational tools to unlock the mysteries hidden within the Avengers movies. From the heroic exploits of Iron Man to the thunderous might of Thor, and the unyielding determination of Captain America, I'm on a mission to unravel the intricate threads that bind Earth's mightiest heroes together. With advanced algorithms and cutting-edge visualizations, we'll traverse the realms of linguistic, thematic, and narrative analysis, revealing the pulse-pounding action, the heart-wrenching drama, and the awe-inspiring spectacle that define the Avengers saga. Suit up, Avengers fans, and get ready for an adventure unlike any other as we dive deep into the epic world of the Avengers!
+
 ### Understanding Text Analysis and Choosing the Corpus
 
 Text analysis is the process of examining and understanding written or spoken language to gain insights and extract meaning from it. It involves using various techniques and tools to analyze the structure, content, and context of a text.
