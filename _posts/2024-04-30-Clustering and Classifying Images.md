@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_label: "---"
 toc_sticky: true
-toc_icon: "gamepad" #"book"
+toc_icon: "car"
   
 ---
 ## **VEHICLES AND CAPTCHA**
