@@ -6,7 +6,7 @@ tags:
   - Assignment
 
 toc: true
-toc_label: "---"
+toc_label: "VEHICLES AND CAPTCHA"
 toc_sticky: true
 toc_icon: "car"
   
