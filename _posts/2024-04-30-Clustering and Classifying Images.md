@@ -23,3 +23,4 @@ In my assignment, I employed [Orange data mining software](https://orangedatamin
 
 <img src="/assets/images/assignment_4/SqueezeNet/SqueezeNet.png" style="zoom:300%;" />
 > Image grid for SqueezeNet (Clustering)
+<img src="/assets/images/assignment_4/SqueezeNet/SqueezeNet.png" style="zoom:300%;" />
