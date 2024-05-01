@@ -37,5 +37,10 @@ Overall, the SqueezeNet algorithm's performance in grouping vehicles by type off
 <img src="/assets/images/assignment_4/Inception v3/Inception v3.png" style="zoom:300%;" />
 > Image grid for Inception v3 (Clustering)
 
+In the analysis using the Inception v3 algorithm, similar levels of efficiency were achieved compared to the SqueezeNet algorithm. Motorcycles were clustered on the right side of the grid, while buses were predominantly positioned on the left. Trucks were primarily clustered at the bottom, while sports cars occupied the top portion of the grid. This clustering pattern suggests a clear differentiation between various vehicle types, showcasing the algorithm's effectiveness in categorizing vehicles based on their visual characteristics.
+Furthermore, similar to the observations with the SqueezeNet algorithm, it appears that the color of the vehicles was not a significant factor in the clustering process. Instead, the algorithm likely prioritized other visual features such as shape and size to perform the clustering. This multidimensional approach to classification highlights the robustness of the Inception v3 algorithm in accurately categorizing vehicles across different types.
+
+> The images below show a portion of the categorization done by the Inception v3 algorithm
+
 <img src="/assets/images/assignment_4/Inception v3/Cluster heirachy.png" style="zoom:300%;" />
 <img src="/assets/images/assignment_4/Inception v3/Cluster image view.png" style="zoom:300%;" />
