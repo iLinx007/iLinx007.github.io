@@ -21,3 +21,5 @@ In compiling the dataset for my assignment, I actively searched various online p
 In my assignment, I employed [Orange data mining software](https://orangedatamining.com/) to explore the realm of computer vision algorithms for my vehicle classification. Through this comprehensive analysis, I sought to gain a deeper understanding of how these algorithms can effectively categorize and identify various vehicle types based on their visual attributes. Employing a diverse range of algorithms including Inception, Painters, and SqueezeNet, I carefully examined their performance and observed intriguing variations in clustering outcomes. This divergence in results may stem from the unique methodologies and feature extraction techniques employed by each algorithm.
 
 
+<img src="/assets/images/assignment_4/Deeploc/deeploc.png" style="zoom:300%;" />
+> Image grid for SqueezeNet (Clustering)
