@@ -23,3 +23,5 @@ In my assignment, I employed [Orange data mining software](https://orangedatamin
 
 <img src="/assets/images/assignment_4/SqueezeNet/SqueezeNet.png" style="zoom:300%;" />
 > Image grid for SqueezeNet (Clustering)
+
+In my project, the SqueezeNet algorithm within the Orange data mining app demonstrated remarkable effectiveness in grouping vehicles based on their types. Notably, motorcycles were clustered on the far right of the grid, while trucks occupied the top right corner. This positioning indicates a clear distinction between these vehicle categories, showcasing the algorithm's ability to discern between different vehicle types accurately. Conversely, cars were predominantly situated in the bottom left quadrant, further highlighting the algorithm's proficiency in categorizing vehicles based on their distinct visual features. Interestingly, it didn't seem that the algorithm used the color of the vehicles as a metric for the clustering. 
