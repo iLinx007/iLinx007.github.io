@@ -96,3 +96,7 @@ This discrepancy in performance could be attributed to differences in the algori
 
 > Confusion Matrix (Deeploc)
 <img src="/assets/images/assignment_4/Deeploc/conf_matrix.png" style="zoom:300%;"/>
+
+#### Conclusion
+
+The robustness of CAPTCHA systems serves as a critical defense against bot attacks in digital environments. As evidenced by the advancements in computer vision algorithms and their ability to classify images with increasing accuracy, the need for robust CAPTCHA mechanisms becomes even more pronounced. CAPTCHA systems play a pivotal role in verifying human users and thwarting automated bot attacks, safeguarding digital platforms from malicious activities such as spamming, account takeover, and unauthorized access. Therefore, as computer vision technology progresses, the ongoing enhancement of CAPTCHA systems remains imperative to ensure the resilience and security of online environments against evolving threats posed by automated bots
