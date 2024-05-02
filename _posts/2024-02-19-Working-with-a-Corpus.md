@@ -57,36 +57,28 @@ Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis 
 #### Extra Visualizations
 
 > "The Avengers" (2012) Trends
-
 <img src="/assets/images/assignment_2/2012_trends.png" style="zoom:180%;" />
 
 > "Avengers: Age of Ultron" (2015) Trends
-
 <img src="/assets/images/assignment_2/2015_trends.png" style="zoom:180%;" />
 
 > "Avengers: Infinity War" (2018) Trends
-
 <img src="/assets/images/assignment_2/2018_trends.png" style="zoom:180%;" />
 
 > "Avengers: Endgame" (2019) Trends
-
 <img src="/assets/images/assignment_2/2019_trends.png" style="zoom:180%;" />
 
 
  > "The Avengers" (2012) Streamgraph
-
 <img src="/assets/images/assignment_2/2012_streamgraph.png" style="zoom:180%;" />
 
 > "Avengers: Age of Ultron" (2015) Streamgraph
-
 <img src="/assets/images/assignment_2/2015_streamgraph.png" style="zoom:180%;" />
 
 > "Avengers: Infinity War" (2018) Streamgraph
-
 <img src="/assets/images/assignment_2/2018_streamgraph.png" style="zoom:180%;" />
 
 > "Avengers: Endgame" (2019) Streamgraph
-
 <img src="/assets/images/assignment_2/2019_streamgraph.png" style="zoom:180%;" />
 
 
