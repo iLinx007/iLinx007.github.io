@@ -39,16 +39,16 @@ In the analysis, Voyant Tools played a pivotal role in delving into the patterns
 Moreover, to ensure precision in my analysis, I utilized Voyant Tools' stopword feature to eliminate repetitive terms often found in conversational dialogue, such as "yeah," "I'm," "we're," "just," "like," etc. This refinement enabled me to focus on the most meaningful and significant words and phrases within the corpus.
 Additionally, in addition to employing Voyant Tools' stopword feature for precision, I engaged its word cloud functionality to visually encapsulate the most prevalent terms within the Avengers movie corpus. The utilization of this feature enabled me to distill the essence of the narrative by visually representing the frequency of words and themes. As a result, the word clouds served as dynamic snapshots, capturing the overarching motifs of heroism, conflict, and sacrifice that permeate the MCU saga. The prominence of terms such as "battle," "power," "sacrifice," and "heroism" underscored the recurring elements driving the narrative tension and character arcs throughout the Avengers movies. By leveraging these visual representations, I deepened my insights into the thematic undercurrents and narrative dynamics that define the cinematic universe, enriching my analysis with a nuanced understanding of its storytelling intricacies.
 
-###### "The Avengers" (2012) Word Cloud
+> "The Avengers" (2012) Word Cloud
 <img src="/assets/images/assignment_2/2012_wc.png" style="zoom:180%;" />
 
-###### "Avengers: Age of Ultron" (2015) Word Cloud
+> "Avengers: Age of Ultron" (2015) Word Cloud
 <img src="/assets/images/assignment_2/2015_wc.png" style="zoom:180%;" />
 
-###### "Avengers: Infinity War" (2018) Word Cloud
+> "Avengers: Infinity War" (2018) Word Cloud
 <img src="/assets/images/assignment_2/2018_wc.png" style="zoom:180%;" />
 
-###### "Avengers: Endgame" (2019) Word Cloud
+> "Avengers: Endgame" (2019) Word Cloud
 <img src="/assets/images/assignment_2/2019_wc.png" style="zoom:180%;" />
 
 
@@ -56,32 +56,39 @@ Furthermore, using the Trends tool within Voyant Tools, I conducted an analysis 
 
 #### Extra Visualizations
 
-###### "The Avengers" (2012) Trends
+> "The Avengers" (2012) Trends
+
 <img src="/assets/images/assignment_2/2012_trends.png" style="zoom:180%;" />
 
-###### "Avengers: Age of Ultron" (2015) Trends
+> "Avengers: Age of Ultron" (2015) Trends
+
 <img src="/assets/images/assignment_2/2015_trends.png" style="zoom:180%;" />
 
-###### "Avengers: Infinity War" (2018) Trends
+> "Avengers: Infinity War" (2018) Trends
+
 <img src="/assets/images/assignment_2/2018_trends.png" style="zoom:180%;" />
 
-###### "Avengers: Endgame" (2019) Trends
+> "Avengers: Endgame" (2019) Trends
+
 <img src="/assets/images/assignment_2/2019_trends.png" style="zoom:180%;" />
 
 
-###### "The Avengers" (2012) Streamgraph
+ > "The Avengers" (2012) Streamgraph
+
 <img src="/assets/images/assignment_2/2012_streamgraph.png" style="zoom:180%;" />
 
-###### "Avengers: Age of Ultron" (2015) Streamgraph
+> "Avengers: Age of Ultron" (2015) Streamgraph
+
 <img src="/assets/images/assignment_2/2015_streamgraph.png" style="zoom:180%;" />
 
-###### "Avengers: Infinity War" (2018) Streamgraph
+> "Avengers: Infinity War" (2018) Streamgraph
+
 <img src="/assets/images/assignment_2/2018_streamgraph.png" style="zoom:180%;" />
 
-###### "Avengers: Endgame" (2019) Streamgraph
+> "Avengers: Endgame" (2019) Streamgraph
+
 <img src="/assets/images/assignment_2/2019_streamgraph.png" style="zoom:180%;" />
 
-### ---
 
 Computer-assisted analysis, particularly utilizing tools like Voyant Tools, offers insights that wouldn't be readily apparent through a linear read of the text or even through watching the movies themselves. Even devoting the entire allotted time frame to watching all four Avengers’ movies, spanning over 8 hours, would not yield the same depth of insights that can be gained through computational analysis. These tools allow for the visualization and exploration of textual data in ways that transcend traditional reading or viewing methods. For instance, Voyant Tools enabled me to analyze word frequency, identify thematic motifs, and track temporal trends across the Avengers movies. 
 Moreover, these tools provide a dynamic platform for comparative analysis and exploration. For example, by comparing word frequencies across different movies or tracking the usage of specific terms over time, I could discern patterns and shifts in the narrative landscape. Additionally, Voyant Tools' concordance feature allowed me to examine the context in which key terms were used, providing deeper insights into character dynamics, plot developments, and thematic nuances.
