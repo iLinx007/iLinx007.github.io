@@ -79,6 +79,8 @@ In summary, while all three algorithms demonstrated effectiveness in clustering 
 
 #### Algorithm Predictive Analysis (Classification)
 
+In addition to evaluating the clustering performance of each algorithm, a deeper analysis can be conducted using confusion matrices. These matrices provide a detailed breakdown of the algorithm's classification accuracy for each vehicle category. By comparing the predicted classifications against the ground truth labels, we can identify any misclassifications or areas of improvement within the clustering results. For example, we can assess whether certain vehicle types were consistently misclassified or if there were any patterns of confusion between similar-looking vehicles. 
+
 > Confusion Matrix (SqueezeNet)
 
 <img src="/assets/images/assignment_4/SqueezeNet/conf_matrix.png" style="zoom:300%;"/>
