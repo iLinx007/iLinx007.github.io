@@ -76,8 +76,3 @@ Another notable difference lies in the clustering criteria employed by each algo
 
 In summary, while all three algorithms demonstrated effectiveness in clustering vehicles, they differed in their approaches and criteria for classification. The SqueezeNet and Inception v3 algorithms excelled in categorizing vehicles based on their types, while the Deeploc algorithm prioritized color clustering. 
 
-
-<img src="/assets/images/assignment_4/SqueezeNet/matrix.png" style="zoom:300%;" />
-<img src="/assets/images/assignment_4/Inception v3/matrix.png" style="zoom:300%;" />
-<img src="/assets/images/assignment_4/Deeploc/matrix.png" style="zoom:300%;" />
-<img src="/assets/images/assignment_4/Inception v3/matrix.png" style="zoom:300%;" />
