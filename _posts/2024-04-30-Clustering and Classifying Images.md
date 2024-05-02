@@ -75,3 +75,8 @@ However, the Deeploc algorithm diverged from this approach by prioritizing color
 Another notable difference lies in the clustering criteria employed by each algorithm. While the SqueezeNet and Inception v3 algorithms focused on a multifaceted approach, considering various visual features such as shape, size, and texture, the Deeploc algorithm primarily relied on color cues for clustering. This difference in clustering criteria hints at the versatility and adaptability of each algorithm in handling different types of datasets and classification tasks.
 
 In summary, while all three algorithms demonstrated effectiveness in clustering vehicles, they differed in their approaches and criteria for classification. The SqueezeNet and Inception v3 algorithms excelled in categorizing vehicles based on their types, while the Deeploc algorithm prioritized color clustering. 
+
+
+<img src="/assets/images/assignment_4/SqueezeNet/matrix.png" style="zoom:300%;" />
+<img src="/assets/images/assignment_4/Inception v3/matrix.png" style="zoom:300%;" />
+<img src="/assets/images/assignment_4/Deeploc/matrix.png" style="zoom:300%;" />
