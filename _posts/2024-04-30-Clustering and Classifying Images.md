@@ -21,7 +21,7 @@ In compiling the dataset for my assignment, I actively searched various online p
 In my assignment, I employed [Orange data mining software](https://orangedatamining.com/) to explore the realm of computer vision algorithms for my vehicle classification. Through this comprehensive analysis, I sought to gain a deeper understanding of how these algorithms can effectively categorize and identify various vehicle types based on their visual attributes. Employing a diverse range of algorithms including Inception, Painters, and SqueezeNet, I carefully examined their performance and observed intriguing variations in clustering outcomes. This divergence in results may stem from the unique methodologies and feature extraction techniques employed by each algorithm.
 
 
-#### ***SqueezeNet***
+##### ***SqueezeNet***
 
 > Image grid for SqueezeNet (Clustering)
 
@@ -37,7 +37,7 @@ Overall, the SqueezeNet algorithm's performance in grouping vehicles by type off
 
 
 
-#### ***Inception v3***
+##### ***Inception v3***
 
 > Image grid for Inception v3 (Clustering)
 
@@ -52,7 +52,7 @@ Furthermore, similar to the observations with the SqueezeNet algorithm, it appea
 <img src="/assets/images/assignment_4/Inception v3/Cluster image view.png" style="zoom:300%;" />
 
 
-#### ***Deeploc***
+##### ***Deeploc***
 
 > Image grid for Deeploc (Clustering)
 
@@ -64,3 +64,11 @@ In contrast to the previous algorithms, the Deeploc algorithm employed a differe
 
 <img src="/assets/images/assignment_4/Deeploc/Cluster heirachy.png" style="zoom:300%;" />
 <img src="/assets/images/assignment_4/Deeploc/Cluster_image_viewer.png" style="zoom:300%;" />
+
+
+#### Comparative Analysis (SqueezeNet vs Inception v3 vs Deeploc)
+
+Firstly, in terms of clustering efficiency, both the SqueezeNet and Inception v3 algorithms demonstrated similar levels of effectiveness in categorizing vehicles based on their types. They successfully differentiated between motorcycles, trucks, buses, and sports cars, with distinct clusters forming on the grid. This suggests that both algorithms were adept at recognizing and classifying vehicles according to their visual characteristics, such as shape, size, and texture.
+However, the Deeploc algorithm diverged from this approach by prioritizing color as the primary clustering metric. While it did not classify vehicles according to their types, it effectively grouped vehicles based on their color characteristics. Brighter and warmer-colored vehicles tended to cluster towards the bottom of the grid, while darker and cooler-colored vehicles were positioned towards the top. This color-centric classification approach offers a unique perspective on the dataset, highlighting the algorithm's ability to discern visual patterns and distinctions based on color features.
+Another notable difference lies in the clustering criteria employed by each algorithm. While the SqueezeNet and Inception v3 algorithms focused on a multifaceted approach, considering various visual features such as shape, size, and texture, the Deeploc algorithm primarily relied on color cues for clustering. This difference in clustering criteria hints at the versatility and adaptability of each algorithm in handling different types of datasets and classification tasks.
+In summary, while all three algorithms demonstrated effectiveness in clustering vehicles, they differed in their approaches and criteria for classification. The SqueezeNet and Inception v3 algorithms excelled in categorizing vehicles based on their types, while the Deeploc algorithm prioritized color clustering. 
