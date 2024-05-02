@@ -81,14 +81,16 @@ In summary, while all three algorithms demonstrated effectiveness in clustering 
 
 In addition to evaluating the clustering performance of each algorithm, a deeper analysis can be conducted using confusion matrices. These matrices provide a detailed breakdown of the algorithm's classification accuracy for each vehicle category. By comparing the predicted classifications against the ground truth labels, we can identify any misclassifications or areas of improvement within the clustering results. For example, we can assess whether certain vehicle types were consistently misclassified or if there were any patterns of confusion between similar-looking vehicles. 
 
-> Confusion Matrix (SqueezeNet)
+The confusion matrix analysis revealed that the SqueezeNet algorithm demonstrated high accuracy in classifying vehicles, with all the vehicles correctly classified. However, the Inception v3 algorithm exhibited a few misclassifications, indicating some discrepancies in its classification accuracy. On the other hand, the Deeploc algorithm resulted in a significant number of misclassifications, with a large portion of vehicles being wrongly classified.
 
+This discrepancy in performance could be attributed to differences in the algorithms' underlying architectures and methodologies. SqueezeNet may have excelled in accurately capturing and classifying vehicles based on their visual attributes. In contrast, the Inception algorithm, while robust, may have encountered challenges in discerning subtle differences between similar vehicle types, leading to some misclassifications. Additionally, the Deeploc algorithm's emphasis on color clustering may have resulted in misclassifications due to its reliance on color cues, which may not always accurately represent vehicle types. 
+
+
+> Confusion Matrix (SqueezeNet)
 <img src="/assets/images/assignment_4/SqueezeNet/conf_matrix.png" style="zoom:300%;"/>
 
-> Confusion Matrix (Inception v3)
-
+> Confusion Matrix (Inception v3) 
 <img src="/assets/images/assignment_4/Inception v3/conf_matrix.png" style="zoom:300%;"/>
 
->Confusion Matrix (Deeploc)
-
+> Confusion Matrix (Deeploc)
 <img src="/assets/images/assignment_4/Deeploc/conf_matrix.png" style="zoom:300%;"/>
