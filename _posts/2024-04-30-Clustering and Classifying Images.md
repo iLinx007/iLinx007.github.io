@@ -63,4 +63,4 @@ In contrast to the previous algorithms, the Deeploc algorithm employed a differe
 > The images below show a portion of the categorization done by the Deeploc algorithm
 
 <img src="/assets/images/assignment_4/Deeploc/Cluster heirachy.png" style="zoom:300%;" />
-<img src="/assets/images/assignment_4/Deeploc/Cluster_image_view.png" style="zoom:300%;" />
+<img src="/assets/images/assignment_4/Deeploc/Cluster_image_viewer.png" style="zoom:300%;" />
