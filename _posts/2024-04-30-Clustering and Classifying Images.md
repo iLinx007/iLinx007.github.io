@@ -80,3 +80,4 @@ In summary, while all three algorithms demonstrated effectiveness in clustering 
 <img src="/assets/images/assignment_4/SqueezeNet/matrix.png" style="zoom:300%;" />
 <img src="/assets/images/assignment_4/Inception v3/matrix.png" style="zoom:300%;" />
 <img src="/assets/images/assignment_4/Deeploc/matrix.png" style="zoom:300%;" />
+<img src="/assets/images/assignment_4/Inception v3/matrix.png" style="zoom:300%;" />
