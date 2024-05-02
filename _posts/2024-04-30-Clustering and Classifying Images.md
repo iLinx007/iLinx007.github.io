@@ -100,3 +100,8 @@ This discrepancy in performance could be attributed to differences in the algori
 #### Conclusion
 
 The robustness of CAPTCHA systems serves as a critical defense against bot attacks in digital environments. As evidenced by the advancements in computer vision algorithms and their ability to classify images with increasing accuracy, the need for robust CAPTCHA mechanisms becomes even more pronounced. CAPTCHA systems play a pivotal role in verifying human users and thwarting automated bot attacks, safeguarding digital platforms from malicious activities such as spamming, account takeover, and unauthorized access. Therefore, as computer vision technology progresses, the ongoing enhancement of CAPTCHA systems remains imperative to ensure the resilience and security of online environments against evolving threats posed by automated bots
+
+
+
+**Class work** *Throughout this assignment, I've come to realize the significance of concepts outlined in the book "Distant Viewing: Computational Exploration of Digital Images." The book emphasizes annotation as the foundational step in clustering and classifying images, involving the assignment of labels based on discernible features like color, shape, texture, or specific objects. I applied this methodology in my work, which also enabled adjustments to the dataset as necessary. Furthermore, I recognized that image visualization is not a one-step process but rather an ongoing and iterative one.*
+{: .notice--warning}
